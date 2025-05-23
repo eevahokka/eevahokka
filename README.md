@@ -8,4 +8,4 @@ Here's the meat:
 - 🙌 I'm really into: (exploratory) data analysis, data simulation and visualisation, advanced modeling, machine learning, ConvNets
 - 🌱 I’m currently learning: BigQuery, PowerBI, generally more in Python
 
-Hoping to populate this profile with more projects soon :)
+For team projects in Big Data & Machine Learning, please see my Kaggle profile: https://www.kaggle.com/eevahkk
